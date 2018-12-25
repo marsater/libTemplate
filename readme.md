@@ -5,4 +5,4 @@ The library just changes the state of the pin passed, wich means this example ju
 under settings in the arduino editor, change the location of the *sketch book* to this repository folder. Then open the *_libTemplate.ino* file and run for an example.
 
 ### License
-See the *license.md* file.
+See the *LICENSE.md* file.
